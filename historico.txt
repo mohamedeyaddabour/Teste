@@ -1,0 +1,50 @@
+    1  ls
+    2  ls -a
+    3  cd Pictures
+    4  pwd
+    5  ls
+    6  cd Designs
+    7  ls
+    8  cd ~
+    9  pwd
+   10  cd Desktop
+   11  mkdir Comandos
+   12  ls
+   13  mkdir -p Comandos/terminal
+   14  cd Comandos
+   15  ls
+   16  mv Comandos "Aulas Toti"
+   17  cd Desktop
+   18  cd 
+   19  ĉd Desktop
+   20  cd desktop
+   21  mv Comandos "Aulas Toti"
+   22  cd "Aulas Toti"
+   23  ls
+   24  rm -r terminal
+   25  touch "criar arquivo.txt"
+   26  ls
+   27  echo "2+2"
+   28  echo 'mensagem teste' > 'criar arquivo.txt'
+   29  cat
+   30  touch 'comandos teste.txt
+touch 'comandos teste.txt'
+ls
+
+   31  touch 'comandos teste.txt'
+   32  cat > 'comandos teste.txt'
+   33  cat 'comandos teste.txt'
+   34  mv 'comandos teste.txt' teste.txt
+   35  ls
+   36  mv teste.txt 'teste.txt'
+   37  ls
+   38  help mv
+   39  man -k mv
+   40  help cd
+   41  clear
+   42  history
+   43  celar
+   44  clear
+   45  history 10
+   46  clear
+   47  history > historico.txt
